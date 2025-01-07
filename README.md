@@ -21,3 +21,26 @@
     <a href="https://github.com/ezeslucky/chess/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
   </p>
 </div>
+
+
+
+### Installation
+
+1. Clone this repo
+   ```sh
+   git clone https://github.com/ezeslucky/chess.git
+   ```
+
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+4. Change git remote url to avoid accidental pushes to base project
+   ```sh
+   git remote set-url origin ezeslucky/chess
+   git remote -v # confirm the changes
+   ```
+5. Start the development server
+   ```sh
+    npm run dev
+    ```
