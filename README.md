@@ -6,7 +6,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/ezeslucky/chess">
-    <img src="/public/chessLogo.png" alt="Logo" width="80" height="80">
+   
   </a>
 
   <h3 align="center">Chess</h3>
